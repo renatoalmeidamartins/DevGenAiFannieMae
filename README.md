@@ -15,3 +15,4 @@
 - [Spatial Transformer Networks](https://arxiv.org/pdf/1506.02025)
 - [Built-in algorithms and pretrained models in Amazon SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [AWS SDKs](https://builder.aws.com/build/tools#SDKs)
+- [Influence response generation with inference parameters](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-parameters.html)
