@@ -2,6 +2,7 @@
 
 ## Labs, courseware and survey
 - [Courseware and labs](https://us-east-1.student.classrooms.aws.training/class/ilt%23jFevEchiN2toTN974chqQB)
+- You can fill the survey, by going to [myclass](https://myclass.skillbuilder.aws/). In the "Past classes" section, you have the "evaluation survey"
 ## Class links
 ### Day 1 links
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
@@ -79,3 +80,17 @@
 - Agentic frameworks
     - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
     - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
+    - [CrewAI quickstart](https://docs.crewai.com/v1.15.41/en/quickstart)
+    - [Building a LangGraph Agent from Scratch](https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/)
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+- [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [A2A "foundation" - An open protocol enabling communication and interoperability between opaque agentic applications.](https://a2a-protocol.org/latest/)
+- [MCP inspector](https://github.com/modelcontextprotocol/inspector)
+- [Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Agentcore overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
+- [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Built-in strategies for long-term memory extraction in agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/built-in-strategies.html)
+- [Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
+- [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+- [New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/)
