@@ -48,3 +48,12 @@
     - [Generate a query for structured data](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-generate-query.html)
 - [Amazon Bedrock Knowledge Bases now supports hybrid search](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-hybrid-search/), combining semantic search with keyword search.
 - [Sync your data with your Amazon Bedrock knowledge base](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-data-source-sync-ingest.html)
+- Open-source frameworks
+    - [Langchain models](https://docs.langchain.com/oss/python/langchain/models#aws-bedrock)
+    - [LangChain Python integrations](https://docs.langchain.com/oss/python/integrations/providers/overview)
+- Responsible AI
+    - [Responsible AI](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html) from AWS docs
+    - [LLM top 10](https://genai.owasp.org/llm-top-10/)
+    - [FuzzyAI Fuzzer](https://github.com/cyberark/fuzzyai), a powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify jailbreaks and mitigate potential security vulnerabilities in their LLM APIs.
+- [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
+- [AWS re:Invent 2024 - Mitigating the OWASP Top 10 for LLMs: Build secure gen AI applications (AIM283)](https://www.youtube.com/watch?v=ewxCqXYoz4A)
