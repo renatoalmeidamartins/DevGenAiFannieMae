@@ -1,5 +1,8 @@
 # DevGenAiFannieMae
 
+## My contact details
+- [LinkedIn profile](https://www.linkedin.com/in/renatodealmeidamartins)
+- renatoalmeidamartins@gmail.com
 ## Labs, courseware and survey
 - [Courseware and labs](https://us-east-1.student.classrooms.aws.training/class/ilt%23jFevEchiN2toTN974chqQB)
 - You can fill the survey, by going to [myclass](https://myclass.skillbuilder.aws/). In the "Past classes" section, you have the "evaluation survey"
