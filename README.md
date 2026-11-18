@@ -57,3 +57,25 @@
     - [FuzzyAI Fuzzer](https://github.com/cyberark/fuzzyai), a powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify jailbreaks and mitigate potential security vulnerabilities in their LLM APIs.
 - [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
 - [AWS re:Invent 2024 - Mitigating the OWASP Top 10 for LLMs: Build secure gen AI applications (AIM283)](https://www.youtube.com/watch?v=ewxCqXYoz4A)
+- **LEGACY** - [OWASP Top 10 for Large Language Model Applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications)
+- **CURRENT** [OWASP Top 10 for Large Language Model Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10)
+- [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [Securing generative AI: An introduction to the Generative AI Security Scoping Matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/)
+
+- Evaluations
+    - Automatic evaluation: [Model evaluation task types in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-tasks.html)
+    - LLM-as-a-judge: [Built-in metric evaluator prompts for model-as-a-judge evaluation jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/model-evaluation-type-judge-prompt.html)
+    - [Evaluator prompts used in a RAG evaluation job](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-eval-prompt.html)
+    - RAGAS: [List of available metrics](https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/)
+    - [Evaluating RAG applications with Amazon Bedrock knowledge base evaluation](https://aws.amazon.com/blogs/machine-learning/evaluating-rag-applications-with-amazon-bedrock-knowledge-base-evaluation/)
+- Prompt routing
+    - [Bedrock feature](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+    - [Research paper](https://arxiv.org/html/2509.06274v3)
+- [Optimize model inference for latency](https://docs.aws.amazon.com/bedrock/latest/userguide/latency-optimized-inference.html)
+- Nova Act
+    - [Playground](https://nova.amazon.com/act?tab=playground)
+    - [What is it?](https://docs.aws.amazon.com/nova-act/latest/userguide/what-is-nova-act.html)
+- [What is agentic AI?](https://aws.amazon.com/what-is/agentic-ai/)
+- Agentic frameworks
+    - [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
+    - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
